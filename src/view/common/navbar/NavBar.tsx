@@ -20,11 +20,12 @@ export class NavBar extends Component {
                         <Link to="/">Home</Link>
                     </li>
                     <li className="mr-2 text-[11px] text-[#e6f0e6]">
-                        <Link to="/contact">Contact</Link>
+                        <Link to="/book">Books</Link>
                     </li>
                     <li className="mr-2 text-[11px] text-[#e6f0e6]">
-                        <Link to="/about">About</Link>
+                        <Link to="/contact">Contact</Link>
                     </li>
+
                 </ul>
 
 

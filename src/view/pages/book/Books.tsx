@@ -1,6 +1,6 @@
 import {Component} from "react";
 
-export class About extends Component {
+export class Books extends Component {
     render() {
         return (
             <>
